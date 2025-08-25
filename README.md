@@ -6,7 +6,7 @@ This repository provides a complete pipeline to **evaluate fairness and bias** i
 
 LLMs like LLaMA, Gemma, and Mistral are increasingly used in advising students for higher education. However, their recommendations often reflect systemic global and societal biases. This project provides a reproducible evaluation framework that breaks down and quantifies such bias through a structured lens.
 
-Our paper _"Where Should I Study? Biased LMs Decide!"_ proposes novel metrics—**DRS** and **GRS**—to evaluate whether recommendations are aligned with user needs and globally diverse.
+Our paper _"Where Should I Study? Biased LMs Decide!"_ proposes novel metrics - **Demographic Representation Score (DRS)** and **Geographic Representation Score (GRS)** to evaluate whether recommendations are aligned with user needs and globally diverse.
 
 ##  Repository Structure
 
